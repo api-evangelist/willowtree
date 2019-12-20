@@ -1,0 +1,49 @@
+{
+    "name": "WillowTree",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/willowtree.png",
+    "tags": [
+        "agencies",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/willowtree\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WillowTree",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/willowtree.png",
+            "humanURL": "http:\/\/www.willowtreeapps.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/willowtree-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.willowtreeapps.com\/category\/development-blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.willowtreeapps.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/willowtreeapps"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.willowtreeapps.com\/"
+        }
+    ]
+}
